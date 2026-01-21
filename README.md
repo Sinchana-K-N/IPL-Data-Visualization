@@ -1,2 +1,2 @@
-# todo_list
-This is a repository for todo list
+# IPL Cricket data
+Visualizing IPL data using numpy, pandas, matplotlib.pyplot, seaborn.
